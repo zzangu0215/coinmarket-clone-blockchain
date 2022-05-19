@@ -49,7 +49,7 @@ const Trending = () => {
       <div className={styles.trendingWrapper}>
         <div className="flex justify-between">
           <h1 className={styles.h1}>
-            Todays Cryptocurrency Prices by Market Cap
+            Today's Cryptocurrency Prices by Market Cap
           </h1>
 
           <div className="flex">
